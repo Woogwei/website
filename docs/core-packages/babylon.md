@@ -7,7 +7,6 @@ package: babylon
 package_source: babylon
 ---
 {% capture readme %}
-{% include readmes/babylon.md %}
 {% endcapture %}
 
 {{ readme | markdownify }}
