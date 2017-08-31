@@ -6,4 +6,3 @@ permalink: /docs/core-packages/babel-code-frame/
 package: babel-code-frame
 ---
 
-{% include package_readme.html %}
