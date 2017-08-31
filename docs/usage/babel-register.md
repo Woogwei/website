@@ -5,5 +5,3 @@ description: The require hook will bind itself to node's require and automatical
 permalink: /docs/usage/babel-register/
 package: babel-register
 ---
-
-{% include package_readme.html %}
