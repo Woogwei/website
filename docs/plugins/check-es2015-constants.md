@@ -13,4 +13,3 @@ package: babel-plugin-check-es2015-constants
   </p>
 </blockquote>
 
-{% include package_readme.html %}
