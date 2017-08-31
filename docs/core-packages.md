@@ -17,4 +17,3 @@ package: babel-core
 
 ## Core
 
-{% include package_readme.html %}
